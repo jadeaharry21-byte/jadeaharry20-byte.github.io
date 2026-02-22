@@ -2,65 +2,9 @@
 <html>
 <head>
     <title>Crochet by Jade</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #fff8f2;
-            text-align: center;
-            margin: 0;
-        }
-        header {
-            background-color: #e6b7c2;
-            padding: 20px;
-            color: white;
-        }
-        .project {
-            background: white;
-            margin: 20px auto;
-            padding: 20px;
-            width: 80%;
-            border-radius: 10px;
-            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-        }
-        img {
-            width: 200px;
-            border-radius: 10px;
-        }
-        footer {
-            background-color: #e6b7c2;
-            padding: 10px;
-            margin-top: 20px;
-            color: white;
-        }
-    </style>
-</head>
-<body>
 
-<header>
-    <h1>🧶 My Crochet Creations</h1>
-    <p>Handmade with love</p>
-</header>
+<body> 
+This project is meant to represent my portfolio for fibre arts and to document my progress in coding>
+<body/> 
 
-<div class="project">
-    <h2>Crochet Tapestry</h2>
-    <img WhatsApp Image 2026-02-21 at 2.00.24 AM>
-    <p>Custom Made Tapestry - $250 TTD</p>
-</div>
-
-<div class="project">
-    <h2>Crochet bouquet</h2>
-    <img WhatsApp Image 2026-02-22 at 12.32.12 AM>
-    <p>Handmade Regular Bouquet (small) - $350 TTD</p>
-</div>
-
-<footer>
-<p>Contact me: 
-      jadetteh@yahoo.com
-      (868)794-7712
-    </p>
-  
-</footer>
-
-</body>
-</html>
-
+    
