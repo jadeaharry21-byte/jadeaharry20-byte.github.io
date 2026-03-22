@@ -48,59 +48,11 @@
     <h2>January</h2>
 </div> 
 
-    <style>
-  .lightbox {
-    display: none;
-    position: fixed;
-    z-index: 1000;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background: rgba(0,0,0,0.9);
-  }
-
-  .lightbox img {
-    display: block;
-    margin: 5% auto;
-    max-width: 80%;
-  }
-
-  /* X button */
-  .close-btn {
-    position: absolute;
-    top: 20px;
-    right: 30px;
-    color: pink;
-    font-size: 30px;
-    font-weight: garamond;
-    cursor: pointer;
-  }
-</style>
-<a href= "bouquet.jpg">
-<img src= "bouquet.jpg"
-     alt= "Bouquet"
-     width="250" 
-     style="cursor:pointer"
-     onclick="openLightbox(this.src)">
-</a>
-
-<div id="lightbox" class="lightbox">
-  <span class="close-btn" onclick="closeLightbox()">&times;</span>
-  <img id="lightbox-img">
-</div>
-
-<script>
-function openLightbox(src) {
-  document.getElementById("lightbox").style.display = "block";
-  document.getElementById("lightbox-img").src = src;
-}
-
-function closeLightbox() {
-  document.getElementById("lightbox").style.display = "none";
-}
-</script>
-
+ <a href= "bouquet.jpg">
+     <img src= "bouquet.jpg"
+         alt= "Bouquet"
+         width= "250">
+ </a>
 <p>Handmade Regular Bouquet (small)</p>
 </div>
 
